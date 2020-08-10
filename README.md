@@ -14,7 +14,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact" alt="andrehgdias Programming Language Stats" />
+  <img align="center" height="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact" alt="andrehgdias Programming Language Stats"/>
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/>
