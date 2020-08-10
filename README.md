@@ -4,7 +4,6 @@
   [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://andredias.dev.br/)
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andr%C3%A9-dias-6436811b4/)
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/andrehgdias/)
-  ![](https://img.shields.io/github/followers/pr2tik1?style=for-the-badge&logo=appveyor)
   <img src="https://komarev.com/ghpvc/?username=andrehgdias&style=flat-square" alt="andrehgdias" />
 </p>
 
