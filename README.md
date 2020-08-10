@@ -4,8 +4,15 @@
 
 - 🔭 I’m currently working as intern at [Fundação INOVA Prudente](https://www.inovaprudente.com.br/), Secretaria de Tecnologia de Presidente Prudente.
 
-- 🌱 I’m currently learning *[SASS](https://sass-lang.com/)* and *[Foundation Framework](https://get.foundation/index.html)*
+- 🌱 I’m currently learning **[SASS](https://sass-lang.com/)** and **[Foundation Framework](https://get.foundation/index.html)**
 
-- 📫 How to reach me **contato@andredias.dev.br** or [My Website](https://andredias.dev.br)
+- 📫 How to reach me **contato@andredias.dev.br** or **[My Website](https://andredias.dev.br)**
 
 - 🔎 I’m currently researching NoSQL Databases!
+
+</hr>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true" alt="andrehgdias" /> 
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact" alt="andrehgdias" /> 
+</p>
