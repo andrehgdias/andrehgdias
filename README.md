@@ -14,9 +14,9 @@
 
 <div>
   <a href="https://github.com/andrehgdias">
-    <img align="center" height="207px" width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/>
+    <img align="center" height="207px" width="49.5%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/>
   </a>
   <a href="https://github.com/andrehgdias">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/>
+    <img align="center" width="49%.5" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/>
   </a>
 </div>
