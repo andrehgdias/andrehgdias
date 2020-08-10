@@ -7,7 +7,7 @@
   <img height="28px" src="https://komarev.com/ghpvc/?username=andrehgdias&style=flat-square" alt="andrehgdias" />
 </p>
 
-- 🔭 I’m currently working as intern at [Fundação INOVA Prudente](https://www.inovaprudente.com.br/), Secretaria de Tecnologia de Presidente Prudente.
+- 🔭 I’m currently working as intern at **[Fundação INOVA Prudente](https://www.inovaprudente.com.br/)**, Secretaria de Tecnologia de Presidente Prudente.
 
 - 🌱 I’m currently learning **[SASS](https://sass-lang.com/)** and **[Foundation Framework](https://get.foundation/index.html)**
 
