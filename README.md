@@ -10,6 +10,13 @@
 
 - 🔎 I’m currently researching NoSQL Databases!
 
+<h2>📊 Tools I can't live without</h2>
+
+<div>
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/kH6CqYiquZawmU1HI6" width="480" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-kH6CqYiquZawmU1HI6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/SS8CV2rQdlYNLtBCiF" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF">via GIPHY</a></p>
+</div>
 <h2>📊 GitHub Stats</h2>
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
