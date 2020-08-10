@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm André Dias</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm André Dias</h1>
 <h3 align="center">A passionate Web Developer from Presidente Prudente - SP,  Brazil <img src="https://image.flaticon.com/icons/svg/3022/3022546.svg" width="18"/> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrehgdias" alt="andrehgdias" /> </p>
 
