@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Dias</h1>
-<h3 align="center">A passionate Web Developer from Presidente Prudente - SP,  Brazil 🇧🇷 <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<h3 align="center">A passionate Web Developer from Presidente Prudente - SP,  Brazil <img src="https://image.flaticon.com/icons/svg/3022/3022546.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
 - 🔭 I’m currently working on [tweet analysis ](https://github.com/devded/NLP-Thesis)
