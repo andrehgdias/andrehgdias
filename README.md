@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm André Dias</h1>
+<h3 align="center">A passionate Web Developer from Presidente Prudente - SP,  Brazil 🇧🇷 <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
-<!--
-**andrehgdias/andrehgdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [tweet analysis ](https://github.com/devded/NLP-Thesis)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Science**
+
+- 📫 How to reach me **dedar@eclipso.it**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
