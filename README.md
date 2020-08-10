@@ -11,8 +11,11 @@
 - 🔎 I’m currently researching NoSQL Databases!
 
 </hr>
+## &#x1f4c8; GitHub Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true" alt="andrehgdias" /> 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact" alt="andrehgdias" /> 
-</p>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact" alt="andrehgdias Programming Language Stats" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/>
+</a>
