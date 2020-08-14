@@ -18,6 +18,13 @@
 <h2>📊 GitHub Stats</h2>
 
 <!--START_SECTION:waka-->
+```text
+SCSS         7 hrs 21 mins   ███████████████░░░░░░░░░░   61.63 % 
+HTML         3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   27.44 % 
+Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+CSS          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JavaScript   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```
 <!--END_SECTION:waka-->
 
 <span><img align="center" width="49%.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/><span/>
