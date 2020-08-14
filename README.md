@@ -21,8 +21,7 @@
 <span><img align="center" width="49%.5" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
 
 <h2>🕑 Waka Time</h2>
-**What I've been coding this last week:**
-<pre>
+<pre>What I've been coding this last week:
 <!--START_SECTION:waka-->
 SCSS         3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   47.26 % 
 HTML         1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   14.10 % 
