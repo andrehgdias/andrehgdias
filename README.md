@@ -21,7 +21,7 @@
 <span><img align="center" width="49%.5" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
 
 <h2>🕑 Waka Time</h2>
-<pre>What I've been coding this last week:
+**What I've been coding this last week:**
 <!--START_SECTION:waka-->
 ```text
 Week: 06 August, 2020 - 13 August, 2020
@@ -33,4 +33,3 @@ Bash         40 mins         ██░░░░░░░░░░░░░░░
 PHP          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
 ```
 <!--END_SECTION:waka-->
-</pre>
