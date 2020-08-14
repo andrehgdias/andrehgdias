@@ -25,4 +25,13 @@
 **What I've been coding this last week:**
 
 <!--START_SECTION:waka-->
+```text
+Week: 06 August, 2020 - 13 August, 2020
+
+SCSS         3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   47.26 % 
+HTML         1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+JavaScript   50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Bash         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+PHP          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+```
 <!--END_SECTION:waka-->
