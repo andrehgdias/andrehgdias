@@ -17,6 +17,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
+<span><img align="center" width="49%.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/><span/>
+<span><img align="center" width="49%.5" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
+
 <!--START_SECTION:waka-->
 ```text
 SCSS         7 hrs 21 mins   ███████████████░░░░░░░░░░   61.63 % 
@@ -26,7 +29,3 @@ CSS          15 mins         ░░░░░░░░░░░░░░░░░
 JavaScript   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 <!--END_SECTION:waka-->
-
-<span><img align="center" width="49%.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/><span/>
-<span><img align="center" width="49%.5" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
-
