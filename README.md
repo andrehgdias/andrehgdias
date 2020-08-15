@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2020 - 13 August, 2020
+Week: 07 August, 2020 - 14 August, 2020
 
 SCSS         3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   47.26 % 
 HTML         1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   14.10 % 
