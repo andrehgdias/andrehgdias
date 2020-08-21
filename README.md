@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2020 - 19 August, 2020
+Week: 13 August, 2020 - 20 August, 2020
 
 PHP          9 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.93 % 
 Vue.js       5 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.23 % 
