@@ -26,12 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2020 - 27 August, 2020
+Week: 21 August, 2020 - 28 August, 2020
 
-Java       2 hrs 13 mins   █████████████████░░░░░░░░   67.79 % 
-PHP        47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Markdown   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Vue.js     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-XML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+PHP   0 secs          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
