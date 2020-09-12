@@ -26,11 +26,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
-Java         7 hrs 31 mins   ██████████████████▓░░░░░░   75.11 % 
-XML          1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JavaScript   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript   2 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.36 % 
+Java         1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   36.00 % 
+HTML         1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.19 % 
+XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
