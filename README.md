@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
 JavaScript   3 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.52 % 
 HTML         1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
