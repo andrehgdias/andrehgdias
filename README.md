@@ -26,11 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
+Week: 25 September, 2020 - 02 October, 2020
 
-Bash         4 hrs 12 mins   █████████████████████▓░░░   86.65 % 
-JavaScript   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Bash         4 hrs 11 mins   █████████████████████▓░░░   86.60 % 
+JavaScript   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
