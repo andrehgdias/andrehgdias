@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2020 - 11 October, 2020
+Week: 05 October, 2020 - 12 October, 2020
 
 C#           2 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.76 % 
 SCSS         1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
