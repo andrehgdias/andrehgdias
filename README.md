@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as intern at **[Fundação INOVA Prudente](https://www.inovaprudente.com.br/)**, Secretaria de Tecnologia de Presidente Prudente.
 
-- 🌱 I’m currently learning **[React.js](https://pt-br.reactjs.org/)** and **[SASS](https://sass-lang.com/)**.
+- 🌱 I’m currently learning **[React.js](https://pt-br.reactjs.org/),[Wordpress](https://br.wordpress.org/)** and **[SASS](https://sass-lang.com/)**.
 
 - 📫 How to reach me **contato@andredias.dev.br** or **[My Website](https://andredias.dev.br)**
 
