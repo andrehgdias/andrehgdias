@@ -26,9 +26,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
-
-PHP    59 mins         ████████████████████████░   96.63 % 
-CSS    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
