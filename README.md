@@ -26,6 +26,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 October, 2020 - 04 November, 2020
+
+CSS          2 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.21 % 
+HTML         1 hr 55 mins    █████████▒░░░░░░░░░░░░░░░   37.72 % 
+JSX          47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
