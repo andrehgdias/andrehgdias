@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
 JSX          3 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.28 % 
 CSS          2 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.28 % 
