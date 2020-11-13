@@ -26,10 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
-JSX          3 hrs 14 mins   █████████████████████▒░░░   85.20 % 
-JSON         24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSX          2 hrs 27 mins   ████████████████████▓░░░░   82.49 % 
+JSON         26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
