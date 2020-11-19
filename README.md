@@ -26,8 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
-JSON   10 mins         █████████████████████████   100.00 % 
+JSON   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
