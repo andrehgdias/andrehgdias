@@ -26,6 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 November, 2020 - 30 November, 2020
+
+Bash   1 hr 2 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
