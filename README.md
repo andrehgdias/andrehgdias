@@ -26,8 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2020 - 06 December, 2020
+Week: 30 November, 2020 - 07 December, 2020
 
-Bash   1 hr 2 mins     █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
