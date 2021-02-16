@@ -26,9 +26,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2020 - 16 December, 2020
-
-SQL    12 mins         █████████████████▓░░░░░░░   70.89 % 
-JSON   5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
