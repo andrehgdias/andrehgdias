@@ -26,8 +26,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2021 - 20 May, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
