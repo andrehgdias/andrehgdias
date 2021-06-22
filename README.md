@@ -26,8 +26,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
