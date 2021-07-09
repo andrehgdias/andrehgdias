@@ -7,14 +7,6 @@
   <img height="28px" src="https://komarev.com/ghpvc/?username=andrehgdias&style=flat-square" alt="andrehgdias" />
 </p>
 
-- 🔭 I’m currently working as intern at **[Fundação INOVA Prudente](https://www.inovaprudente.com.br/)**, Secretaria de Tecnologia de Presidente Prudente.
-
-- 🌱 I’m currently learning **[React.js](https://pt-br.reactjs.org/),[Wordpress](https://br.wordpress.org/)** and **[SASS](https://sass-lang.com/)**.
-
-- 📫 How to reach me **contato@andredias.dev.br** or **[My Website](https://andredias.dev.br)**
-
-- 🔎 I’m currently researching NoSQL Databases!
-
 <h2>📊 GitHub Stats</h2>
 
 <span><img align="center" width="49%.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/><span/>
