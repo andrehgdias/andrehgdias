@@ -18,6 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 August, 2021 - 14 August, 2021
+
+PHP    17 mins         █████████████████▒░░░░░░░   68.98 % 
+SCSS   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+JSON   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 <!--END_SECTION:waka-->
