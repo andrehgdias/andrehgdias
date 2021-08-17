@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2021 - 15 August, 2021
+Week: 10 August, 2021 - 16 August, 2021
 
 PHP    17 mins         █████████████████▒░░░░░░░   68.98 % 
 SCSS   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
