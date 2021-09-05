@@ -18,11 +18,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
+Week: 29 August, 2021 - 04 September, 2021
 
-PHP          6 hrs 42 mins   ████████████████▒░░░░░░░░   64.67 % 
-SCSS         3 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   32.01 % 
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+PHP          7 hrs 11 mins   ███████████████▓░░░░░░░░░   62.41 % 
+SCSS         4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   36.90 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
