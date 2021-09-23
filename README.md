@@ -18,12 +18,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 September, 2021 - 21 September, 2021
+Week: 16 September, 2021 - 22 September, 2021
 
-PHP             10 hrs 40 mins  ████████████████▒░░░░░░░░   65.68 % 
-SCSS            5 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.59 % 
-HTML            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-CSS             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Apache Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+PHP             13 hrs 17 mins  █████████████████▒░░░░░░░   69.47 % 
+SCSS            5 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+HTML            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JSON            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Apache Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
