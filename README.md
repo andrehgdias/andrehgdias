@@ -18,12 +18,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2021 - 24 September, 2021
+Week: 19 September, 2021 - 25 September, 2021
 
-PHP          11 hrs 53 mins  █████████████████▒░░░░░░░   69.92 % 
-SCSS         4 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.20 % 
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+PHP          11 hrs 1 min    ███████████████████░░░░░░   75.90 % 
+SCSS         3 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
