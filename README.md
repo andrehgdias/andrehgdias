@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
 PHP             4 hrs 23 mins   ██████████████████▒░░░░░░   73.00 % 
 SCSS            1 hr 22 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
