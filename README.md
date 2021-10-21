@@ -28,7 +28,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2021 - 19 October, 2021
+Week: 14 October, 2021 - 20 October, 2021
 
 Python   1 hr 41 mins    ██████████████▒░░░░░░░░░░   56.73 % 
 C#       1 hr 13 mins    ██████████▒░░░░░░░░░░░░░░   40.77 % 
