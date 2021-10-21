@@ -19,8 +19,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<span><img align="center" width="49%.5" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andrehgdias&layout=compact&hide=java" alt="andrehgdias Programming Language Stats"/><span/>
-<span><img align="center" width="49%.5" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
+<span><img align="center" width="100%" height="155.42px" src="https://github-readme-stats.vercel.app/api?username=andrehgdias&show_icons=true&line_height=27&count_private=true" alt="andrehgdias GitHub Stats"/><span/>
 
 <h2>🕑 Waka Time</h2>
 
