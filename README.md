@@ -27,12 +27,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-JSX          1 hr 25 mins    ███████████████▒░░░░░░░░░   61.73 % 
-JavaScript   28 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 % 
-TypeScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+C#           3 hrs 12 mins   ██████████████▓░░░░░░░░░░   58.21 % 
+JSX          1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.80 % 
+JavaScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+TypeScript   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
