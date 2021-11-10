@@ -27,8 +27,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-C#   6 hrs 45 mins   █████████████████████████   100.00 % 
+C#   6 hrs 54 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
