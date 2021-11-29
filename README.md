@@ -27,12 +27,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2021 - 27 November, 2021
+Week: 22 November, 2021 - 28 November, 2021
 
-ON           8 hrs 9 mins    █████████████████░░░░░░░░   67.68 % 
-TypeScript   3 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 % 
-Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-conf         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+ON           7 hrs 44 mins   ████████████████████░░░░░   79.64 % 
+TypeScript   1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+conf         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
