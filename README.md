@@ -27,6 +27,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 December, 2021 - 10 December, 2021
+
+ON       31 mins         ████████████████████▒░░░░   81.92 % 
+BibTeX   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 <!--END_SECTION:waka-->
