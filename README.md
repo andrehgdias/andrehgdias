@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
 ON       31 mins         ████████████████████▒░░░░   81.92 % 
 BibTeX   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
