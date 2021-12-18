@@ -27,10 +27,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
-ON       31 mins         ████████████████████▒░░░░   81.92 % 
-BibTeX   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+C#     1 hr 18 mins    █████████████████░░░░░░░░   68.49 % 
+JSON   36 mins         ████████░░░░░░░░░░░░░░░░░   31.51 % 
 ```
 <!--END_SECTION:waka-->
