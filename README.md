@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 C#     1 hr 18 mins    █████████████████░░░░░░░░   68.49 % 
 JSON   36 mins         ████████░░░░░░░░░░░░░░░░░   31.51 % 
