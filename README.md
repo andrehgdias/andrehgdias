@@ -27,9 +27,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
-
-C#     1 hr 18 mins    █████████████████░░░░░░░░   68.49 % 
-JSON   36 mins         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
