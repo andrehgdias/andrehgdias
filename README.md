@@ -27,8 +27,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2022 - 02 February, 2022
-
-Python   30 mins         █████████████████████████   99.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
