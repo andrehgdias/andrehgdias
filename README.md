@@ -27,6 +27,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 February, 2022 - 10 February, 2022
+
+C#           1 hr 17 mins    ████████████████████████░   95.39 % 
+HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 <!--END_SECTION:waka-->
