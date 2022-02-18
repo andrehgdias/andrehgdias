@@ -27,11 +27,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 1 hr 20 mins
+Total: 3 mins
 
-C#           1 hr 17 mins    ████████████████████████░   95.39 % 
-HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+HTML         3 mins          ███████████████████████▓░   95.16 % 
 ```
 <!--END_SECTION:waka-->
