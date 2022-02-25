@@ -27,8 +27,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Python   56 mins         █████████████████████████   100.00 % 
+C#       2 hrs 25 mins   ██████████████████░░░░░░░   71.94 % 
+Python   56 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
 ```
 <!--END_SECTION:waka-->
