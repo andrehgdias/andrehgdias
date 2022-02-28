@@ -26,10 +26,13 @@
 **What I've been coding this last week:**
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-C#       2 hrs 25 mins   ██████████████████░░░░░░░   71.94 % 
-Python   56 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+C#       2 hrs 25 mins   ██████████████████░░░░░░░   71.94 %
+Python   56 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
