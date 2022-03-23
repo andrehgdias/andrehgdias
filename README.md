@@ -11,11 +11,9 @@
 
 - I love programming and technology in general so I have a lot of interests.
 
-- I've always been more focused on Front-end development with several frameworks and libraries but I also like Back-end a lot and I intend to go deeper into the theme.
+- I've always been more focused on Front-end development with several frameworks and libraries but I also like Back-end a lot and I intend to go deeper into this subject.
 
 - I did some personal projects using Node.js, Express, MySQL and MongoDB, but I'm more familiar with projects in Php, HTML/CSS, Javascript, React.js and Vue.js.
-
-- I'm also developing a "game" using the Unity Engine for a college course.   
 
 <h2>📊 GitHub Stats</h2>
 
