@@ -26,11 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-Java           6 hrs 46 mins   ██████████████████████▒░░   89.22 %
-Properties     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-XML            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Java           7 hrs 17 mins   ████████████████████████▒   97.78 %
+Properties     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
