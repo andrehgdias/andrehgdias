@@ -26,10 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
-Java         6 hrs 51 mins   ████████████████████████▓   99.05 %
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Java   1 hr 54 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
