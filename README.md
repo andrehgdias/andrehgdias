@@ -26,7 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 April 2022 - To: 27 April 2022
+
+Markdown     13 mins         ████████████▓░░░░░░░░░░░░   50.94 %
+TypeScript   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+HTML         5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
