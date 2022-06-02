@@ -26,11 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
-JavaScript   3 hrs 14 mins   █████████████████████████   99.48 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   3 hrs 12 mins   █████████████████████████   99.81 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
