@@ -26,7 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 June 2022 - To: 29 June 2022
+
+JavaScript       2 hrs 20 mins   █████████████████░░░░░░░░   67.68 %
+SCSS             21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+Java             19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Bash             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+YAML             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Env File         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
