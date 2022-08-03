@@ -26,10 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 July 2022 - To: 29 July 2022
+From: 26 July 2022 - To: 02 August 2022
 
-YAML         3 mins          █████████████████████░░░░   83.35 %
-JavaScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Markdown   21 mins         ████████████████████████▓   98.59 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
