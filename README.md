@@ -26,11 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
-Python     3 hrs 14 mins   ██████████████████░░░░░░░   72.18 %
-Java       1 hr 6 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-Other      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Python       1 hr 22 mins    █████████████▒░░░░░░░░░░░   53.53 %
+Java         35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+JavaScript   29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
