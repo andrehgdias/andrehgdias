@@ -26,13 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-Java         3 hrs 47 mins   ████████████████░░░░░░░░░   63.36 %
-JavaScript   1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-Gherkin      34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-JSON         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java         1 hr 43 mins    █████████████████▓░░░░░░░   71.00 %
+JavaScript   30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Gherkin      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
