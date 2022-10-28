@@ -7,6 +7,8 @@
   <img height="28px" src="https://komarev.com/ghpvc/?username=andrehgdias&style=flat-square" alt="andrehgdias" />
 </p>
 
+[![@andrehgdias's Holopin board](https://holopin.me/andrehgdias)](https://holopin.io/@andrehgdias)
+
 - I'm taking a Bachelor's Degree in Computer Science at the State University of São Paulo.
 
 - I love programming and technology in general so I have a lot of interests.
