@@ -28,10 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
-
-JavaScript   4 mins          ██████████████▓░░░░░░░░░░   59.26 %
-CSS          3 mins          ██████████▒░░░░░░░░░░░░░░   40.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
