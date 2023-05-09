@@ -28,11 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 07 May 2023
+From: 01 May 2023 - To: 08 May 2023
 
-JSON         3 mins          █████████████████████▒░░░   85.56 %
-PHP          0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JavaScript   1 hr 32 mins    ██████████████████████▓░░   90.02 %
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
