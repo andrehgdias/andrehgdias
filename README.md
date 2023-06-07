@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
 TypeScript   7 hrs 47 mins   ██████████████░░░░░░░░░░░   55.49 %
 HTML         3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
