@@ -28,12 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-TypeScript     5 hrs 5 mins    █████████████████▒░░░░░░░   68.86 %
-HTML           2 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.43 %
-SCSS           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-ActionScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
