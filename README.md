@@ -28,9 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-TypeScript   30 hrs 39 mins  █████████████████████████   100.00 %
+TypeScript   33 hrs 51 mins  █████████████████████████   99.42 %
+SCSS         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
