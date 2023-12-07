@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-TypeScript   23 hrs 27 mins  ████████████████████▓░░░░   83.33 %
-HTML         2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-JavaScript   1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-CSS          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-SCSS         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+TypeScript   27 hrs 23 mins  ██████████████████▓░░░░░░   75.13 %
+JavaScript   4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+HTML         3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+CSS          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+SCSS         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
