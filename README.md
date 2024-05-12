@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-No activity tracked
+TypeScript    58 mins         ██████████████████░░░░░░░   72.62 %
+CSS           16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+Git Config    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+HTML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
