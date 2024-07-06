@@ -7,15 +7,9 @@
   <img height="28px" src="https://komarev.com/ghpvc/?username=andrehgdias&style=flat-square" alt="andrehgdias" />
 </p>
 
-[![@andrehgdias's Holopin board](https://holopin.me/andrehgdias)](https://holopin.io/@andrehgdias)
+- Bachelor's in Computer Science at the State University of São Paulo.
 
-- I have a Bachelor's Degree in Computer Science at the State University of São Paulo.
-
-- I love programming and technology in general so I have a lot of interests.
-
-- I've always been more focused on Front-end development with several frameworks and libraries but I also like Back-end a lot and I intend to go deeper into this subject.
-
-- I did some personal projects using Node.js, Express, MySQL and MongoDB, but I'm more familiar with projects in Php, HTML/CSS, Javascript, React.js and Vue.js.
+- I love programming and technology, currently working at as a Full-stack Developer.
 
 <h2>📊 GitHub Stats</h2>
 
