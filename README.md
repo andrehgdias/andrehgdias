@@ -19,9 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 11 November 2024
+From: 07 November 2024 - To: 13 November 2024
 
-CSV   15 mins         █████████████████████████   100.00 %
+JSON             27 mins         █████████████████████▓░░░   87.02 %
+JavaScript       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
