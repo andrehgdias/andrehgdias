@@ -19,13 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2024 - To: 20 November 2024
+From: 15 November 2024 - To: 21 November 2024
 
-INI              7 mins          ████████▓░░░░░░░░░░░░░░░░   34.70 %
-JavaScript       4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-GitIgnore file   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
-Markdown         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-JSON             1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
