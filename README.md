@@ -19,13 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 30 November 2024
+From: 25 November 2024 - To: 01 December 2024
 
-JavaScript       21 mins         ██████████░░░░░░░░░░░░░░░   39.80 %
-TypeScript       16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-GitIgnore file   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-JSON             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Text             1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
