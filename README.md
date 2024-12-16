@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 13 December 2024
+From: 08 December 2024 - To: 14 December 2024
 
-CSS          35 mins         ████████████████████▒░░░░   81.34 %
-TypeScript   8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
